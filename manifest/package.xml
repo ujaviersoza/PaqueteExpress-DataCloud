@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AuxTendencia</members>
+		<members>AuxTendenciaEjecutivo</members>
+		<members>NotificationDisPot</members>
+		<members>NotificationDisPot_Test</members>
+		<members>TestBatchTendencias</members>
+		<members>TestBatchTendenciasEjecutivos</members>
+		<members>TestTriggerCuenta</members>
+		<members>TriggerCuenta</members>
+		<name>ApexClass</name>
+	</types>
+	<version>62.0</version>
+</Package>
